@@ -1,22 +1,17 @@
 # Origin Product Take-Home Assignment
 
-## The Assignment
-We want to see your best work. You will share a case study of the best project you did.
+Financial wellness is not just about getting rid of problems like credit card or student debt. It is also – and arguably mainly – about fulfilling your dreams. Some of us want to buy a car. Some of us want to take a vacation. Some of us want to have a baby. Every single one of us want something.
 
-We are not solely interested in the final screenshots, so please include all the documentation you have so we can understand your process from start to finish.
+That is especially true given Origin's persona, an upper-middle class 32 year old designer who lives in San Francisco (or, more precisely, in their phone) and works for a venture-backed tech startup. This person makes enough money to make ends meet, keep their debt in check and also enjoy the best that life can offer if they start saving consciously.
 
-We expect you to go in-depth on at least the following questions:
+Origin wants to help them reach their savings goals by making monthly deposits towards their objectives. As our designer, you will design a high-fidelity interface prototype that allows (at least) our users to:
 
-- What was the problem?
-- What research did you conduct?
-- How did you make decisions?
-- Did you use a styleguide? If so, who created it?
-- How did you solve that problem?
-- How did you collaborate with teammates (PMs, engineers, stakeholders, designers)?
-- How did you measure its success?
-- What do you know now that you wish you knew when you started? How the project would change?
+1. See the savings goals they have created, with the amount they still need to save and how much time left before they accomplish the goal.
+2. Create a new savings goal.
+3. Define the savings goals attributes – its name, the amount they want to save for it and the number of months until they'd like to have the total amount available for their usage – and save it.
 
-## Criteria
-We are looking for intellectually rigorous, relentless resourceful, detail-obsessed, customer-centric, technically excellent, professional design leaders.
+We value technical excellence, so we expect you to use our [style guide](https://github.com/OriginFinancial/origin-design-take-home-assignment/blob/master/Style%20Guide.sketch). We are customer centric and are obsessed with details, so deliver your best possible work. We also value intellectual rigor, so feel free to create new components or add functionality not described above.
 
-Given that you show those qualities in your case study, you can deliver it in any form you like, as long as you use English. Just go for it.
+We run a very collaborative process, so feel free to get in touch with us to ask questions, get feedback or anything else we can help with (really).
+
+You can deliver the high-fidelity prototype through any platform that you are familiar with – Invision, Marvel, Figma, anything that works –, as long as the final product is in English. If you'd like to document your process, we'd love to see wireframes, research, interviews, everything. Honestly, go for it!
