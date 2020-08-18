@@ -9,7 +9,7 @@ Origin wants to help them reach their savings goals by making monthly deposits t
 1. Specify the goals that they want to save toward and the time to reach these goals (e.g. Save for April 2022 Wedding)
 2. Specify the priority of these goals
 3. View a recommendation for the amount that they should be contributing to each goal each month and specify the monthly contribution
-4. View progress towards these goals
+4. View and track progress towards these goals
 
 Please use our [style guide](https://github.com/OriginFinancial/origin-design-take-home-assignment/blob/master/Style%20Guide.sketch) when designing your solution. We are customer centric and are obsessed with details, so deliver your best possible work. We also value intellectual rigor, so feel free to create new components or add functionality not described above.
 
