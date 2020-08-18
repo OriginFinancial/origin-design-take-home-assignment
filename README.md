@@ -1,4 +1,4 @@
-# Origin Product Take-Home Assignment
+# Origin Product Design Take-Home Assignment
 
 Financial wellness is not just about getting rid of problems like credit card or student debt. It is also – and arguably mainly – about fulfilling your dreams. Some of us want to buy a car. Some of us want to take a vacation. Some of us want to have a baby. Every single one of us want something.
 
