@@ -8,10 +8,8 @@ Origin wants to help them plan for their future by helping them understand how t
 
 1. See historical patterns of how much money they have spent, how much money they have made, and how much money they have saved
 2. Receive a recommended budget that tells them how much they should be spending each month and how much they should be saving, based on their income
-3. See how historical spending and saving compares to recommended values (recommended values can be calculated as a percentage of income)
-4. Set a monthly spending budget
-5. See current month's spending compared to budget
-6. Receive recommendations on how they could improve their spending and savings habits (e.g. where can I cut back in spending, etc.)
+3. Set a monthly spending budget
+4. See current month's spending compared to budget
 
 Success of this feature will be measured by:
 
