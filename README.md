@@ -1,23 +1,25 @@
 # Origin Product Design Take-Home Assignment
 
-Financial wellness is not just about getting rid of problems like credit card or student debt. It is also – and arguably mainly – about fulfilling your dreams. Some of us want to buy a car. Some of us want to take a vacation. Some of us want to have a baby. Every single one of us wants something.
+Financial wellness is not just about getting rid of problems like credit cards or student debt. It is also – and arguably mainly – about fulfilling your dreams. 
 
-That is especially true given Origin's persona, an upper-middle class 32 year old designer who lives in San Francisco (or, more precisely, in their phone) and works for a venture-backed tech startup. This person makes enough money to save and live comfortably, but wants to better understand where their money is going and how to more effectively save for their future.
+Some of us want to buy a car. Some of us want to take a vacation. Some of us want to have a baby. Every single one of us wants something.
 
-Origin wants to help them plan for their future by helping them understand how to better save money and where to allocate these savings. As our designer, you will design a high-fidelity interface prototype that allows our users to perform (at least) the following actions:
+That is especially true given Origin's persona, an upper-middle-class 32-year-old designer who lives in San Francisco (or, more precisely, in their phone) and works for a venture-backed tech startup. This person makes enough money to save and live comfortably but wants to better understand where their money is going and how to more effectively save for their future.
 
-1. See historical patterns of how much money they have spent, how much money they have made, and how much money they have saved
-2. Receive a recommended budget that tells them how much they should be spending each month and how much they should be saving, based on their income
-3. Set a monthly spending budget
-4. See current month's spending compared to budget
+Origin wants to help them plan for their future by helping them understand how to better save money and where to allocate these savings. 
 
-Success of this feature will be measured by:
+We’ve been working relentlessly to deliver a solid product that will empower people on those goals and we are measuring that by looking closely at three metrics:
+* Percent of users that finish the onboarding process
+* Percent of users who are following at least one of our recommendation
+* Percent of users who are engaging with the platform at least once per month
 
-- Percent of users who are setting up a monthly spending budget
-- Percent of users who are engaging with this feature at least once per month
+As our designer, we want you to access our platform and bring three design hypothesis that you think will help Origin provide an even better financial health platform.
 
-Please use our [style guide](https://github.com/OriginFinancial/origin-design-take-home-assignment/blob/master/Style%20Guide.sketch) when designing your solution. We are customer centric and are obsessed with details, so deliver your best possible work. We also value intellectual rigor, so feel free to create new components or add functionality not described above.
+How would you prioritize it? How would you plan each initiative?
 
-We run a very collaborative process, so feel free to get in touch with us to ask questions, get feedback or anything else we can help with (really).
+Please use our [style guide](https://www.figma.com/file/i6U64YdCWEbbT0J8jyFBq0/Style-Guide?node-id=2%3A3) when designing your proposal. We are customer-centric and are obsessed with details, so deliver your best possible work. We also value intellectual rigor, so feel free to create new components or add functionality not described above.
 
-You can deliver the high-fidelity prototype through any platform that you are familiar with – Invision, Marvel, Figma, anything that works –, as long as the final product is in English. If you'd like to document your process, we'd love to see wireframes, research, interviews, everything. Honestly, go for it!
+We run a very collaborative process, so feel free to get in touch with us to ask questions, get feedback, or anything else we can help with (really).
+You can deliver the prototype through any platform that you are familiar with – Invision, Marvel, Figma, anything that works –, as long as the final product is in English. If you'd like to document your process, we'd love to see wireframes, research, interviews, everything. Honestly, go for it!
+
+⚠️ Disclaimer: whatever you design is of your intellectual property and won't be used for any purposes besides your hiring process! ⚠️
