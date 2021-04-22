@@ -11,7 +11,7 @@ We’ve been working relentlessly to deliver a solid product that will empower p
 * Percent of users who are engaging with the platform at least once per month
 * Percent of users who self-report that their overall financial wellness has increased since they started using Origin
 
-As our designer, we want you to access our platform and develop three hypotheses that you think will help Origin optimize the metrics presented above. Please explain how you developed these hypotheses. You can sign up for a test account here: https://app-development.useorigin.com/sign-up. Please don't add any of your sensitive information!
+As our designer, we want you to access our platform and develop three hypotheses that you think will help Origin optimize the metrics presented above. Please explain how you developed these hypotheses. You can sign up for a test account [here](https://app-development.useorigin.com/sign-up). Please don't add any of your sensitive information!
 
 Pick one of these hypotheses that you would like to move forward with and design a product or feature that addresses this hypothesis. What are the primary use cases that you're solving? What does the feature do and how does it work?
 
